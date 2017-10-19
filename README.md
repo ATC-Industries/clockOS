@@ -1,4 +1,4 @@
-![ClockOS](https://imgur.com/a/mgDCl)
+![ClockOS](https://i.imgur.com/06UVpUX.jpg)
 
 <h3 align="center">ClockOS</h3>
 <p align="center">
